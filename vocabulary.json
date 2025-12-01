@@ -1,0 +1,72 @@
+[
+  {
+    "id": "v1",
+    "word": "predict",
+    "meaning": "to say what will happen",
+    "example": "I can predict tomorrow's rain.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v2",
+    "word": "improve",
+    "meaning": "to make better",
+    "example": "You will improve with practice.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v3",
+    "word": "achieve",
+    "meaning": "to reach a goal",
+    "example": "She can achieve fluency.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v4",
+    "word": "benefit",
+    "meaning": "an advantage",
+    "example": "Exercise has many benefits.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v5",
+    "word": "confident",
+    "meaning": "sure of oneself",
+    "example": "Be confident when you speak.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v6",
+    "word": "curious",
+    "meaning": "wanting to learn",
+    "example": "Children are naturally curious.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v7",
+    "word": "discover",
+    "meaning": "find out",
+    "example": "I discovered a new idea.",
+    "level": "Beginner"
+  },
+  {
+    "id": "v8",
+    "word": "explain",
+    "meaning": "make clear",
+    "example": "Please explain your answer.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "v9",
+    "word": "focus",
+    "meaning": "pay attention",
+    "example": "Focus on the question.",
+    "level": "Intermediate"
+  },
+  {
+    "id": "v10",
+    "word": "increase",
+    "meaning": "to become larger",
+    "example": "Practice will increase your skill.",
+    "level": "Intermediate"
+  }
+]
